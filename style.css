@@ -1,0 +1,22 @@
+header {
+    max-width: 40%;
+    text-align: center;
+    background-image: url(http://images.all-free-download.com/images/graphiclarge/notes_music_background_312755.jpg);
+    margin: 0 auto;
+    color: aliceblue;
+}
+
+h1 {
+    color: azure;
+    padding-top: 10%;
+}
+
+h3 {
+    padding-top: 10%;
+    font-size: 150%;
+}
+
+p {
+    padding: 10%;
+
+}
